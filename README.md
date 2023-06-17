@@ -5,7 +5,8 @@ This is a webscraping script using python. This is my practice script after read
 ## It does:
 The script scrapes job data (title, company, location, email address and company website link) from a fake jobsite - [The Free Python Job Board](https://pythonjobs.github.io/).
 The site is a static website. The data is converted and saved into an excel file(.xlsx format). There is an excel file in the repository that was made by the script.
-Take a look at the sample image below: ![excel screenshot](https://github.com/MdMonoar/webscraper_fakejobs/blob/e7eb27fe9eca21fc55e3195c45d741744713e76e/Screenshot.png).
+Take a look at the sample image below: 
+![excel screenshot](https://github.com/MdMonoar/webscraper_fakejobs/blob/e7eb27fe9eca21fc55e3195c45d741744713e76e/Screenshot.png)
 
 ## Why?
 The script can be used to collect data from any static website.
