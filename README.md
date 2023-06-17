@@ -1,5 +1,5 @@
 # Web Scraping Fakejobs
-This is a web scraping script using python. This is my practice script after reading a realpython tutorial titled 'Beautiful Soup: Build a Web Scraper With Python'. 
+This is a web scraping script written in python. This is my practice script after reading a realpython tutorial titled 'Beautiful Soup: Build a Web Scraper With Python'. 
 <br><br>
 
 ## It does:
