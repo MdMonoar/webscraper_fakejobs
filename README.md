@@ -12,7 +12,7 @@ The script can be used to collect data from any static website.
 
 
 ## How?
-I have used [BeautifulSoup4](https://pypi.org/project/beautifulsoup4/) for scraping web data. Pandas and openpyxl was used to convert and save the data into an 
+[BeautifulSoup4](https://pypi.org/project/beautifulsoup4/) was used for scraping web data. Pandas and openpyxl was used to convert and save the data into an 
 excel file. There is a 'requirements.txt' file in the repository. It contains all the necessary modules and their version that were used. These are necessary for 
 the script to run. One can install the modules and check the script.
 
